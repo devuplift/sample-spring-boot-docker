@@ -6,6 +6,8 @@
 # Kitematic installation
 * https://github.com/docker/kitematic/releases
 
+# Docker reference
+
 * https://docs.docker.com/get-started/overview/
 * https://docs.docker.com/get-started/
 * https://docs.docker.com/get-started/part2/
