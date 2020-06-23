@@ -1,5 +1,8 @@
 # sample-spring-boot-docker Docker file usage
 
+# Enable HyperV on windows
+* https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
+
 # Docker Installation 
 * https://hub.docker.com/editions/community/docker-ce-desktop-windows
 
@@ -87,5 +90,7 @@ ENTRYPOINT ["java","-jar","/app.jar"]
 
 # Deleting docker images
 * Refer https://docs.docker.com/engine/reference/commandline/rmi/
+
+
 
 
